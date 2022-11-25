@@ -6,5 +6,4 @@ numpy
 opencv_python
 pandas
 scikit_image
-skimage
 window_capture_streaming
