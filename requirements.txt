@@ -1,9 +1,5 @@
 a_cv2_easy_resize
-a_cv_imwrite_imread_plus
-adb_screencap_streaming
-keyboard
-numpy
+ctypes_screenshots
+ctypes_window_info
 opencv_python
 pandas
-scikit_image
-window_capture_streaming
